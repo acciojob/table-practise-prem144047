@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+  table {
+            width: 100%;
+            background-color: yellow; /* Set the table background to yellow */
+            border-collapse: collapse; /* Collapse borders */
+        }
+        th, td {
+            border: 1px solid black; /* 1px solid black border */
+            padding: 8px; /* Add some padding */
+            text-align: left; /* Align text to the left */
+        }
